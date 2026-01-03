@@ -64,13 +64,13 @@ The system uses a **MySQL database** backend with a **PHP frontend**, providing 
 ## Screenshots
 
 **Home Dashboard**  
-![Dashboard Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/03da1371dab5f9a13be3f5db8435dd97167f7dca/Project%20Milestones/Dashboard.png))
+![Dashboard Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/03da1371dab5f9a13be3f5db8435dd97167f7dca/Project%20Milestones/Dashboard.png)
 
 **Manage Staff Module**  
-![Staff Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20staff.png))
+![Staff Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20staff.png)
 
 **Manage Locations Module**  
-![Locations Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20Locations.png))
+![Locations Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20Locations.png)
 
 **Issue Type Module**  
 ![Issue Type Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Issue%20Types.png)

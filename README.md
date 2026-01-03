@@ -80,9 +80,6 @@ The system uses a **MySQL database** backend with a **PHP frontend**, providing 
 **Reports Module**  
 ![Reports Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Reports.png)
 
-> Replace `path-to-your-image/filename.png` with the folder path where your screenshots are stored in the repo.
-
----
 
 ## Installation / Setup
 

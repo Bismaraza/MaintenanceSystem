@@ -64,7 +64,7 @@ The system uses a **MySQL database** backend with a **PHP frontend**, providing 
 ## Screenshots
 
 **Home Dashboard**  
-![Dashboard Screenshot]([path-to-your-image/dashboard.png](https://github.com/Bismaraza/MaintenanceSystem/blob/03da1371dab5f9a13be3f5db8435dd97167f7dca/Project%20Milestones/Dashboard.png))
+![Dashboard Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/03da1371dab5f9a13be3f5db8435dd97167f7dca/Project%20Milestones/Dashboard.png))
 
 **Manage Staff Module**  
 ![Staff Screenshot](path-to-your-image/staff.png)

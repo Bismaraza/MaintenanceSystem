@@ -67,19 +67,18 @@ The system uses a **MySQL database** backend with a **PHP frontend**, providing 
 ![Dashboard Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/03da1371dab5f9a13be3f5db8435dd97167f7dca/Project%20Milestones/Dashboard.png))
 
 **Manage Staff Module**  
-![Staff Screenshot](path-to-your-image/staff.png)
+![Staff Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20staff.png))
 
 **Manage Locations Module**  
-![Locations Screenshot](path-to-your-image/locations.png)
+![Locations Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Manage%20Locations.png))
 
 **Issue Type Module**  
-![Issue Type Screenshot](path-to-your-image/issuetype.png)
+![Issue Type Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Issue%20Types.png)
 
 **Request Management Module**  
-![Request Screenshot](path-to-your-image/request.png)
-
+![Request Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Requests.png)
 **Reports Module**  
-![Reports Screenshot](path-to-your-image/reports.png)
+![Reports Screenshot](https://github.com/Bismaraza/MaintenanceSystem/blob/2201798756bd7e6b1c66ff5d1992f36cd6a22af7/Project%20Milestones/Reports.png)
 
 > Replace `path-to-your-image/filename.png` with the folder path where your screenshots are stored in the repo.
 
